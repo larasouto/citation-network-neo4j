@@ -1,4 +1,4 @@
-article_id,article_title,year
+paper_id:int,article_title:str,year:int
 1001,Compactification  Geometry and Duality,2000
 1003,Comment on  Metric Fluctuations in Brane Worlds,2000
 1005,Bundles of chiral blocks and boundary conditions in CFT,2000
