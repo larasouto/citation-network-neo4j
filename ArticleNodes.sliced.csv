@@ -1,17 +1,17 @@
-paper_id:int,article_title:str,year:int
-1001,Compactification  Geometry and Duality,2000
-1003,Comment on  Metric Fluctuations in Brane Worlds,2000
-1005,Bundles of chiral blocks and boundary conditions in CFT,2000
-1006,Questions in quantum physics: a personal view,2000
-1007,Topological Defects in 3-d Euclidean Gravity,2000
-1009,Gluon Pair Production From Space-Time Dependent Chromofield,2000
-1011,Noncommutativities of D-branes and $\theta$-changing Degrees of Freedom,2000
-1012,Boundary Liouville Field Theory I. Boundary State and Boundary Two-point,2000
-1013,Gravity and the Newtonian limit in the Randall-Sundrum model,2000
-1014,Gauge theories in local causal perturbation theory,2000
-1015,Canonical Quantization and Topological Theories,2000
-1016,A Comment on the Holographic Renormalization Group and the Soft Dilaton,2000
-1017,The Interaction of Two Hopf Solitons,2000
-1018,Solitons in Brane Worlds II,2000
-1019,Casimir energy of a dilute dielectric ball with uniform velocity of,2000
-1020,Some uses of moduli spaces in particle and field theory,2000
+paper_id:int,year:int
+1001,2000
+1003,2000
+1005,2000
+1006,2000
+1007,2000
+1009,2000
+1011,2000
+1012,2000
+1013,2000
+1014,2000
+1015,2000
+1016,2000
+1017,2000
+1018,2000
+1019,2000
+1020,2000
